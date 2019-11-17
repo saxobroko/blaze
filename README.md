@@ -36,7 +36,7 @@ This folder contains the code for the frontend (written in [Svelte](https://svel
 ## Contributing
 Thanks for contributing to Blaze! Make sure to **Fork** this repository into your account before making any commits. Then use the following commands to setup the project
 ```bash
-git clone https://github.com/<your-github-username>/blaze
+git clone https://github.com/saxobroko/blaze
 git remote add upstream https://github.com/blenderskool/blaze.git
 cd blaze
 npm install
